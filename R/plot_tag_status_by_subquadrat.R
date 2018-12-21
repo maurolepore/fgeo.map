@@ -42,7 +42,7 @@
 #' 
 #' @seealso [graphics::points()], [ggplot2::geom_point()], [ggplot2::theme()]
 #'   [header_tag_status()], [theme_tag_status()], [fgeo.tool::add_subquad()],
-#'   [paginate()], [ggrepel::geom_text_repel], [fgeo.tool::drop_twice_dead()].
+#'   [paginate()], [ggrepel::geom_text_repel].
 #'
 #' @section Acknowledgment:
 #' Useful ideas and guidance came from Suzanne Lao, Stuart Davis, Shameema
